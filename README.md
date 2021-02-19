@@ -19,5 +19,8 @@ My projects from 42 Rome Piscine 2020
 
 · C06 : 100%
 
+· C07 : 100%
+
+
 
 
